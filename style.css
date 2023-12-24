@@ -342,7 +342,7 @@ section{
     }
     header .navbar{
         position: absolute;
-        top: -400;
+        top: -400px;
         left: 0;
         right: 0;
         display: flex;
